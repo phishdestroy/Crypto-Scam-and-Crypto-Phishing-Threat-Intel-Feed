@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-04T02:10:48.388067+00:00",
+  "checked_at": "2026-11-05T17:57:33.568012+00:00",
   "upstream": "spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed",
   "upstream_branch": "main",
-  "upstream_commit": "e37c8562116353c188bb16f3a750302c1c12ff14",
+  "upstream_commit": "40cc4136641be6d643df304eecbf5e60760a6d3c",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
